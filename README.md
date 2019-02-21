@@ -1,3 +1,8 @@
+**Forked for Stanford CS230 Winter 2019 project extending Piano Genie to play over chords.**
+
+<i>Contributors: Matthew Stein, Divya Gupta, and Craig Chen</i>
+
+---
 
 <img src="magenta-logo-bg.png" height="75">
 
